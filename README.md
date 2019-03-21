@@ -6,7 +6,7 @@ Socat一键安装脚本
 
 使用`root`运行以下命令：
 
-    wget https://github.com/lzw981731/socat/blob/master/socat.sh && bash socat.sh
+    wget https://raw.githubusercontent.com/lzw981731/Socat/master/socat.sh && bash socat.sh
 
 按要求输入本地服务器端口，要转发的目标端口和服务器IP即可！
 
