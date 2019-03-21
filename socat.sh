@@ -7,8 +7,8 @@ export PATH
 #	Author:	Rat's
 #	Dscription: Socat一键脚本
 #	Version: 1.0
-#	Blog: https://www.moerats.com
-#	Github:https://github.com/iiiiiii1/Socat
+#	Blog: http://www.vipkj.net
+#	Github:https://github.com/lzw981731/socat
 # ====================================================
 
 Green="\033[32m"
